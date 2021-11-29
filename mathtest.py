@@ -1,4 +1,4 @@
-#Import math Library
+# Import math Library
 import math
 
-print (math.gcd(3, 6))
+print(math.gcd(3, 6))
